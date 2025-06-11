@@ -10,5 +10,5 @@ Web Upload Hasil Upload
 ![image](https://github.com/user-attachments/assets/647207e9-f145-47cb-aa42-69d47b3d5fda)
 Web Upload Hasil Delete
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/ec931ed0-a833-4be9-8d7b-bc26f18dce93)
 Web Upload Hasil Download
